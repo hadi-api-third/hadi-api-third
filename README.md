@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+<a href="https://hadi-api.herokuapp.com/api">
+	<img src="https://i.pinimg.com/originals/6c/b2/27/6cb227b9d016245847b262d067f3141c.jpg" alt="My waifu ~shirakami fubuki" />
+</a>
+</p>
 
-<!--
-**hadi-api-third/hadi-api-third** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Hadi-Api](https://img.shields.io/github/followers/hadi-api-third?label=follow&style=social)](https://hadi-api.cf/api)
 
-Here are some ideas to get you started:
+<h1 align="center">hello, my name is HADI 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+	Welcome to my GitHub profile
+</h1>
+
+<p align="center">
+  <a href="https://hadi-api.cf/api"><img src="https://github-readme-stats.vercel.app/api?username=hadi-api-third&hide_border=true&show_icons=true" alt="Hadi-Api's Github Stats"></a>
+</p>
